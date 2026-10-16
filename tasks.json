@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1,
+    "description": "Algoritma çalış",
+    "status": "todo",
+    "createdAt": "2026-10-16T13:56:32.691Z",
+    "updatedAt": "2026-10-16T13:56:32.691Z"
+  }
+]
