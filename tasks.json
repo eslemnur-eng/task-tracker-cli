@@ -1,9 +1,16 @@
 [
   {
     "id": 1,
-    "description": "Algoritma çalış",
-    "status": "todo",
+    "description": "TypeScript konularını tekrar et",
+    "status": "in-progress",
     "createdAt": "2026-10-16T13:56:32.691Z",
-    "updatedAt": "2026-10-16T13:56:32.691Z"
+    "updatedAt": "2026-10-16T15:27:20.159Z"
+  },
+  {
+    "id": 3,
+    "description": "TypeScript tekrar et",
+    "status": "todo",
+    "createdAt": "2026-10-16T15:24:51.127Z",
+    "updatedAt": "2026-10-16T15:24:51.127Z"
   }
 ]
